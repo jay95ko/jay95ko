@@ -20,7 +20,9 @@
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp;
 </div>
 </br></br>
-<div align="center"> <h3🍊Me🍊</h3></div>
+
+<div align="center"> <h3>🍊Me🍊</h3></div>
+
 <div align="center"> 
 <a href="https://velog.io/@jay95ko" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp;
   <a href="mailto:kojang1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
