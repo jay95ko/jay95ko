@@ -23,7 +23,7 @@
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp;
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp;
 </div>
-</br></br>
+</br>
 
 <div align="center"> <h3>🍊Me🍊</h3></div>
 
