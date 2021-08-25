@@ -1,8 +1,9 @@
 # <center>Hello✋ I'm BE DEV JAYKO🍊</center>
 
+ <div align="center"> 
 ### <center>🛠Tech Stack🛠</center>
-<center>
-<div>
+
+
 <img alt="Python" src ="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> &nbsp;
 <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> &nbsp;
@@ -16,7 +17,6 @@
 <img alt="Amazon AWS" src ="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp;
 <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31?style=flat-square&logo=Amazon AWS&logoColor=white"/> &nbsp;
 </div>
-</center>
 
 
 
