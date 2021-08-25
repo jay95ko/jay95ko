@@ -24,8 +24,8 @@
 <div align="center"> <h3>🍊Me🍊</h3></div>
 
 <div align="center"> 
-<a href="https://velog.io/@jay95ko" target="blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp;
-  <a href="mailto:kojang1995@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://velog.io/@jay95ko" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp;
+  <a href="mailto:kojang1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   </div>
 
 
