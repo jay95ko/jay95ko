@@ -1,4 +1,9 @@
 <div align="center"> <h1>Hello✋ I'm BE_DEV JAYKO🍊</h1></div>
+<div align="center"> 
+  <h3>💻Want to close my goal everyday💻</h3></br>
+- Everyday study, Enjoy debate
+- I'm currently learning
+  </div>
 </br>
 </br>
 <div align="center"> <h3>🛠Tech Stack🛠</h3>
