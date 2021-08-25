@@ -1,7 +1,7 @@
 <div align="center"> <h1>Hello✋ I'm BE_DEV JAYKO🍊</h1></div>
 </br>
 </br>
-<div align="center"> <h3>🛠Tech Stack🛠</h3>
+<div align="center"> <h2>🛠Tech Stack🛠</h2>
   </div>
   </br>
 
@@ -21,12 +21,9 @@
 </div>
 </br></br>
 
-<div align="center"> <h3>🍊Me🍊</h3></div>
+<div align="center"> <h2>🍊Me🍊</h2></div>
 
 <div align="center"> 
 <a href="https://velog.io/@jay95ko" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a> &nbsp;
-  <a href="mailto:kojang1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  </div>
-
-
-
+<a href="mailto:kojang1995@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</div>
