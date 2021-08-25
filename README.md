@@ -1,7 +1,9 @@
-# <center>Hello✋ I'm BE DEV JAYKO🍊</center>
-
+<div align="center"> <h1>Hello✋ I'm BE_DEV JAYKO🍊</h1></div>
+</br>
+</br>
 <div align="center"> <h3>🛠Tech Stack🛠</h3>
   </div>
+  </br>
 
 <div align="center"> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> &nbsp;
